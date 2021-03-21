@@ -1,0 +1,28 @@
+nav{
+    margin-bottom: -1px;
+    background-color:black;
+    text-align: center; 
+    font-family: Berlin Sans; 
+    font-weight:bold; 
+    font-size: 20px; 
+    color: #ffffff; 
+    text-shadow: black 0 -2px;
+}
+
+body{
+    background-color: transparent;
+}
+
+h3{
+    color: #ffffff; 
+}
+
+#panel_desarrollo_web, #panel_desarrollo_java, #panel_base_de_datos, #panel_contacto{
+    background-color: white;
+    text-align: left; 
+    font-family: Cambria; 
+    font-weight:normal; 
+    font-size: 25px; 
+    color: black; 
+    margin: 1em;
+}
